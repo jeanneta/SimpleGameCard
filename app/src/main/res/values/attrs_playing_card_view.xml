@@ -1,0 +1,12 @@
+<resources>
+    <declare-styleable name="PlayingCardView">
+        <attr name="suit" format="string" />
+        <attr name="rank" format="string" />
+        <attr name="faceUp" format="boolean" />
+
+
+
+        <!--        <attr name="exampleColor" format="color" />-->
+<!--        <attr name="exampleDrawable" format="color|reference" />-->
+    </declare-styleable>
+</resources>
