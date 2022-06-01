@@ -1,3 +1,3 @@
 # SimpleGameCard
 
-Please go to main branch
+Please go to master branch
